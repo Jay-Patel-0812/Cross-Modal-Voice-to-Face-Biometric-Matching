@@ -13,7 +13,7 @@ To setup and run the code, follow these steps:
 ### 1. Clone the repository and navigate to project folder:
 ```bash
 git clone https://github.com/Jay-Patel-0812/Cross-Modal-Voice-to-Face-Biometric-Matching
-cd .\IT499_Project_TeamBioGaurdians
+cd .\Cross-Modal-Voice-to-Face-Biometric-Matching
 ```
 
 ### 2. Install the required packages:
